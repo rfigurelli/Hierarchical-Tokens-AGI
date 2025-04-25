@@ -11,8 +11,16 @@ The core idea is simple: apply the same mechanism used to predict the next word,
 - Moving from token completion to **thought structuring**
 - Bridging the gap between probabilistic language and structured cognition
 
-## 📄 Files
-- `hierarchical_tokens_AGI.pdf` – The white paper outlining the concept and rationale
+## 📄 Last Version
+[Download v1.2 (PDF)](https://github.com/rfigurelli/Hierarchical-Tokens-AGI/blob/main/Hierarchical%20Tokens%20-%20Structuring%20Transformers%20for%20AGI%20-%20Rogerio%20Figurelli%20-%20v1.2.pdf)
+
+## 📄 Version History
+
+| Version | Date        | Description                          |
+|---------|-------------|--------------------------------------|
+| v1.2    | 2025-04-25  | New layout and improved formatting   |
+| v1.1    | 2025-04-25  | Added references section             |
+| v1.0    | 2025-04-25  | Initial release of the white paper   |
 
 ## 👤 Author
 Rogério Figurelli  
