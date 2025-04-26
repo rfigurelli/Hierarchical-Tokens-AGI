@@ -1,4 +1,6 @@
-# Hierarchical Tokens: Structuring Transformers for AGI
+# Hierarchical Tokens for Structured General Intelligence
+
+Repository: Hierarchical-Tokens-AGI
 
 This repository introduces the conceptual framework **Hierarchical Tokens for Structured General Intelligence**, originally disclosed in the white paper:
 
