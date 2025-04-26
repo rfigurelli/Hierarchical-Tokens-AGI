@@ -16,6 +16,7 @@ The core idea is simple: apply the same mechanism used to predict the next word,
 
 ## 📄 Other References Using The White Paper
 [AGI 1.0 Is Already Here! The Question Is What's Next? - LinkedIn Article - 04/26/2025](https://www.linkedin.com/pulse/agi-10-already-here-question-whats-next-rogerio-figurelli-5b5kf)
+
 [Beyond Words: Structuring Thought for the Future of AGI - LinkedIn Article - 04/26/2025](https://www.linkedin.com/pulse/beyond-words-structuring-thought-future-agi-rogerio-figurelli-glrgf/?trackingId=tso1cW8XTrK7jUO41gO84Q%3D%3D)
 
 ## 📄 Version History
